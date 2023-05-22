@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create Virual Network & Subnet
 
 <h2>Installation Steps</h2>
-<blockquote class="imgur-embed-pub" lang="en" data-id="MjeNXED" data-context="false" ><a href="//imgur.com/MjeNXED"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <p>
 <img src="https://www.imgur.com/MjeNXED" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
