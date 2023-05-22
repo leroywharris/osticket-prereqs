@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Get an Active subscription
 - Create a (RG) Resource Group
 - Create a (VM) Virual Machine
-- Locate the Virual Network & Subnet
+- Create Virual Network & Subnet
 
 <h2>Installation Steps</h2>
 
