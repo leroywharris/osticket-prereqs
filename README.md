@@ -23,11 +23,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create Azre Tentant
-- Get Active subscription
+- Create Azure Tentant
+- Get an Active subscription
 - Create a (RG) Resource Group
 - Create a (VM) Virual Machine
-- Item 5
+- locate the Virual Network & Subnet
 
 <h2>Installation Steps</h2>
 
