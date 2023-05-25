@@ -42,7 +42,7 @@ CREATE RESOURCE GROUP:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xlke586.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 CREATE (VM) VIRTUAL MACHINE with Windows 10 PRO: 
