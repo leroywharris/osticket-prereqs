@@ -32,6 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+  https://i.imgur.com/Xlke586.png
 ![Create a  Resource Group](https://raw.githubusercontent.com/leroywharris/osticket-prereqs/8ea8e3c940e6e96f591f234807df2285616ca9f3/Create%20Resource%20Group.png)
 </p>
 <p>
