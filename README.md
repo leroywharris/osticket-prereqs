@@ -41,7 +41,7 @@ CREATE RESOURCE GROUP:
 <br />
 <img src="https://i.imgur.com/Xlke586.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-In the image above I created a resource group.
+In the image above I created a resource group called osTicket.
   
   
   
