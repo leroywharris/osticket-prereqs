@@ -59,7 +59,7 @@ CREATE (VM) VIRTUAL MACHINE with Windows 10 PRO:
 <img src="https://i.imgur.com/YdherT5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above I created a Virtual Machine and called at VM-1 which will include a public address & subnet.
+In the image above I created a Virtual Machine and called It VM-1 which will include a public address & subnet.
 </p>
 <br />
 
