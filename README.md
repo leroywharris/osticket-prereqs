@@ -4,7 +4,7 @@
 </p>
 
 <h1>Prerequisites and Installation of osTicket </h1>
-A help desk is the first point of contact for customers and employees alike. Customers need answers and the help desk is where they turn. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system of osTicket.<br />
+A help desk is the first point of contact for customers and employees alike. Customers need answers and the help desk is where they turn. This tutorial outlines the prerequisites  of the open-source help desk ticketing system of osTicket.<br />
 
 
 
