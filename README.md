@@ -24,8 +24,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create Azure Tentant
 - Get an Active subscription
-- Create a (RG) Resource Group
-- Create a (VM) Virual Machine
+- Setup & create a (RG) Resource Group
+- Create & configure a (VM) Virual Machine
 - Create Virual Network & Subnet
 
 <h2>Installation Steps</h2>
