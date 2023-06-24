@@ -20,13 +20,13 @@ A help desk is the first point of contact for customers and employees alike. Cus
 
 
 
-<h2>List of the Prerequisites Requirments</h2>
+<h2>List of the Prerequisites Requirements</h2>
 
 - Create Azure Tentant
-- Get an Active subscription
+- Get an Active Subscription
 - Setup & create a (RG) Resource Group
-- Create & configure a (VM) Virual Machine
-- Create Virual Network & Subnet
+- Create & configure a (VM) Virtual Machine
+- Create Virtual Network & Subnet
 
 <h2>Installation Steps</h2>
 
