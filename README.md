@@ -63,17 +63,6 @@ In the image above I created a Virtual Machine and called It VM-1 which will inc
 <br />
 
 
-<h2>Summary</h2>
 
-<p>
-
-</p>
-<p>
-CREATE RESOURCE GROUP: 
-  
-</p>
-
-<p>
-In the image above I created a resource group called osTicket.
 
 
